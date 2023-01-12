@@ -1,0 +1,57 @@
+.title{
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+}
+span{
+    color: green;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main img{
+    max-width: 600px;
+}
+
+.main_info{
+    max-width: 500px;
+}
+
+.forma{
+    max-width: 420px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+}
+.forma h2{
+    text-align: center;
+    font-size: 35px;
+}
+.forma input{
+    padding: 10px;
+    font-size: 23px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border: 2px solid #d7d7d7;
+
+}
+.main_info ul{
+    padding-left: 17px;
+}
+
+.main_info a{
+    font-size: 20px;
+    color: #006dd4;
+}
+
+.forma button{
+    background: green;
+    color: white;
+    padding: 16px;
+    border-radius: 5px;
+    border: 0;
+    font-size: 20px;
+}
